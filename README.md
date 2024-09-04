@@ -40,3 +40,49 @@ O projeto será desenvolvido utilizando as seguintes tecnologias:
   - Yarn
 
 ## Estrutura de Pastas
+
+
+## Como Executar o Projeto
+
+1. Clone este repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/projeto-cacau-show.git
+    ```
+
+2. Acesse o diretório do projeto:
+    ```bash
+    cd projeto-cacau-show
+    ```
+
+3. Instale as dependências:
+    ```bash
+    yarn install
+    ```
+
+4. Crie um arquivo `.env` e configure as variáveis de ambiente (exemplo: conexão com o banco de dados e chaves de APIs).
+
+5. Execute a aplicação em ambiente de desenvolvimento:
+    ```bash
+    yarn dev
+    ```
+
+6. Acesse a aplicação no navegador:
+    ```
+    http://localhost:3000
+    ```
+
+## Próximos Passos
+- Implementar testes automatizados (unitários e de integração)
+- Otimizar a aplicação para SEO
+- Adicionar suporte para acessibilidade (a11y)
+- Melhorar o desempenho da aplicação utilizando **Lazy Loading** e **Code Splitting**
+
+## Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões ou encontrar algum bug, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+**Feito com 💖 por [Seu Nome](https://github.com/seu-usuario)**.
